@@ -3,23 +3,9 @@ masterfocus.github.io
 
 # Links / Contact
 
-I'm more active on http://ahkscript.org/boards/  
-but you can also find me on http://www.autohotkey.com/board/  
-and send me a private message.
+AutoHotkey: [ [Active Forum](http://autohotkey.com/boards) | [Archived Forum](http://autohotkey.com/board) ]  
+Feel free to send me a private message there.
 
-Code catalog:  
-http://www.autohotkey.com/community/viewtopic.php?f=2&t=88198 (old link)  
-OR http://www.autohotkey.com/board/topic/82112-masterfocuss-code-repository/  
-OR https://sites.google.com/site/masterfocusahk/ ("full" version, with hyperlinks)
+My AHK code: [ [GitHub Repository](https://github.com/MasterFocus/AutoHotkey) | [Archived Forum Topic](https://autohotkey.com/board/topic/82112-masterfocuss-code-repository/) | [Google Sites](https://sites.google.com/site/masterfocusahk/) | [RosettaCode](http://rosettacode.org/wiki/Special:Contributions/MasterFocus) ]
 
-Currently oudated:  
-http://masterfocus.ahk4.net  
-OR http://mf.pwnz.org  
-OR http://mf.uk.to
-
-Contributions to RosettaCode:  
-http://rosettacode.org/wiki/Special:Contributions/MasterFocus
-
-Defunct:  
-~~http://u.ahk.me/MasterFocus~~  
-~~OR http://www.autohotkey.net/~MasterFocus~~
+Defunct: [ ~~[ahk4.net](http://masterfocus.ahk4.net)~~ | ~~[pwnz.org](http://mf.pwnz.org)~~ | ~~[uk.to](http://mf.uk.to)~~ | ~~[ahk.me](http://u.ahk.me/MasterFocus)~~ | ~~[autohotkey.net](http://www.autohotkey.net/~MasterFocus)~~ ]
